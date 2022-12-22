@@ -64,7 +64,7 @@ def generate_launch_description():
     #  - 'zedm' for "ZED mini" camera
     #  - 'zed2' for "ZED2" camera
     #  - 'zed2i' for "ZED2i" camera
-    camera_model = 'zedm'
+    camera_model = 'zed'
     camera_name = camera_model
     
     publish_urdf = 'false'  # Publish static frames from camera URDF
